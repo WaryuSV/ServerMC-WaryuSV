@@ -1,0 +1,54 @@
+.Color1{
+/*     background-color: #220042; */
+    background-image: url(../imagenes/6.png);
+    color: white;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.Titulo{
+    padding-top: 200px;
+    font-size: 90px;
+}
+
+.Titulo-1{
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.Img-Titulo{
+    display: flex;
+}
+
+
+.Color2{
+    background-color: #0E0E0F;
+    color: white;
+}
+
+.Subtitulo{
+    padding: 25px;
+    font-size: 47px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.Info{
+    padding: 15px;
+    font-size: 19px;
+    text-align: center;
+}
+
+.button{
+    margin: 30px;
+    color: white;
+    display: inline-block;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #5300A1;
+    font-size: 32px;
+    width: 240px;
+    border-radius: 30px;
+}
