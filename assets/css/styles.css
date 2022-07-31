@@ -52,3 +52,58 @@
     width: 240px;
     border-radius: 30px;
 }
+
+.button-1{
+    margin: 30px;
+    color: white;
+    display: inline-block;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #7400D5;
+    font-size: 32px;
+    width: 240px;
+    border-radius: 30px;
+}
+
+.button-2{
+    margin: 30px;
+    color: white;
+    display: inline-block;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #D50000;
+    font-size: 32px;
+    width: 240px;
+    border-radius: 30px;
+}
+
+.button-3{
+    margin: 30px;
+    color: white;
+    display: inline-block;
+    padding: 10px 0px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #0054D5;
+    font-size: 32px;
+    width: 240px;
+    border-radius: 30px;
+}
+
+.Footer{
+    background-color: #2B2B2E;
+}
+
+.Text-Footer{
+    padding-top: 20px;
+    font-size: 35px;
+    color: white;
+}
+
+.Text-Footer-1{
+    font-size: 15px;
+    color: #BCBCBC;
+    padding-top: 5px;
+}
