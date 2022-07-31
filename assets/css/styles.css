@@ -1,5 +1,4 @@
 .Color1{
-/*     background-color: #220042; */
     background-image: url(../imagenes/6.png);
     color: white;
     background-position: center;
@@ -100,6 +99,7 @@
     padding-top: 20px;
     font-size: 35px;
     color: white;
+    text-align: center;
 }
 
 .Text-Footer-1{
